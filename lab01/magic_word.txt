@@ -1,0 +1,15 @@
+git init 
+git add
+git commit -m
+git status
+git log
+git restore --staged [file] 
+git restore [file]
+git add [forgotten-file]
+git commit --amend
+git restore -source=[commit or branch] [file or folder]
+git clone [remote-repo-url]
+git remote add [remote-repo-name] [remote-repo-URL]
+git remote -v
+git pull [remote-repo-name] main
+git push [remote-repo-name] main
